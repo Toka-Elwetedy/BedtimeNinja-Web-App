@@ -81,3 +81,11 @@ Bedtime Ninja Web Application may use the following 3rd party APIs:
 * Stripe API - to handle payment processing for any purchases made through the website.
 * Amazon Polly API - to generate audio versions of bedtime stories for users who prefer listening to stories rather than reading them.
 
+## User Stories:
+* As a parent, I want to be able to listen to audible bedtime stories with my child so that I can give my voice a break while still providing them with the comfort of hearing a bedtime story.
+* As a single parent, I struggle with putting my child to bed every night. With BedtimeNinja, I hope to find a variety of engaging and calming bedtime stories to help my child fall asleep quickly and easily.
+* As a busy and stressed parent, I often find bedtime to be a source of anxiety and frustration when my child won't fall asleep. With BedtimeNinja, I hope to find a range of stories that can help soothe my child and make bedtime a more enjoyable experience for both of us.
+* As a child, I want to be able to listen to stories with sound effects and music to make the experience more immersive and entertaining.
+* As a child, I want to be able to earn rewards or points for listening to stories, so I feel motivated to participate and look forward to bedtime.
+
+
